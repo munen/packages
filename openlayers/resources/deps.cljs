@@ -1,4 +1,4 @@
-{:libs ["cljsjs/openlayers/"]
+{:libs ["cljsjs/openlayers/development/"]
  :externs ["cljsjs/openlayers/common/bingmaps.ext.js"
            "cljsjs/openlayers/common/closure-compiler.ext.js"
            "cljsjs/openlayers/common/example.ext.js"
